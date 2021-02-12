@@ -1,6 +1,6 @@
 # Mastering-GIT
-GIT basics for beginners
-hello from Bekki
+GIT basics for beginner. Changing the line, so that we can see the conflict.s
+Hello from all of us!
  
 ##hello again
 
