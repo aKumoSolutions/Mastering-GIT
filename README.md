@@ -1,6 +1,6 @@
 # Mastering-GIT
-GIT basics for beginners
-hello from Bekki
+GIT basics for beginner
+hello from Bekki and Nur
  
 ##hello again
 
